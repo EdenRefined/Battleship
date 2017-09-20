@@ -1,14 +1,14 @@
 var shipData = [
-    [null, "X", "X", "X", "X", "X", null, null, null, null],
-    [null, null, null, "X", null, null, null, null, null, null],
-    [null, null, null, "X", null, null, null, null, null, null],
-    [null, null, null, "X", null, null, "X", "X", null, null],
-    [null, null, null, "X", null, null, null, null, null, null],
+    [null, "C", "C", "C", "C", "C", null, null, null, null],
+    [null, null, null, "D", null, null, null, null, null, null],
+    [null, null, null, "D", null, null, null, null, null, null],
+    [null, null, null, "D", null, null, "P", "P", null, null],
+    [null, null, null, "D", null, null, null, null, null, null],
     [null, null, null, null, null, null, null, null, null, null],
-    [null, null, null, null, "X", "X", "X", null, null, null],
-    ["X", null, null, null, null, null, null, null, null, null],
-    ["X", null, null, null, null, null, null, null, null, null],
-    ["X", null, null, null, null, null, null, null, null, null]
+    [null, null, null, null, "B", "B", "B", null, null, null],
+    ["S", null, null, null, null, null, null, null, null, null],
+    ["S", null, null, null, null, null, null, null, null, null],
+    ["S", null, null, null, null, null, null, null, null, null]
 ];
 
 var gameState = [
